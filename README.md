@@ -3,7 +3,7 @@
 На выбор есть две версии: оптимизированная и не отптимизированная, выбирайте сами :)
 
 # Минимальные требования
-Процессор: unknow (testing)
-ОЗУ: 1 GB DDR3/DDR4
-Видеокарта: 2 GB Video Memory
-Диск: 1.5 GB Free Space
+Процессор: unknow (testing)  
+ОЗУ: 1 GB DDR3/DDR4  
+Видеокарта: 2 GB Video Memory  
+Диск: 1.5 GB Free Space  
