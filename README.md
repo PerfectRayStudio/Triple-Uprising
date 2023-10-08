@@ -4,6 +4,6 @@
 
 # Минимальные требования
 🧠 Процессор: 2 Core  
-㎇ ОЗУ: 1 GB DDR3/DDR4  
+📋 ОЗУ: 1 GB DDR3/DDR4  
 🖼 Видеокарта: 1.5 GB Video Memory (Only DX11/DX12)    
 📀 Диск: 1.7 GB Free Space  
