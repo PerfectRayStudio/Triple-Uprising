@@ -10,3 +10,5 @@
 
 # Информация
 📚 Подробнее об игре можно прочитать здесь: https://iae-perfectray-studio.gitbook.io/triple-uprising/
+📰 Наш Telegram: https://t.me/perfectray_official
+🎭 Наш Вконтакте: https://vk.com/perfectray_official
